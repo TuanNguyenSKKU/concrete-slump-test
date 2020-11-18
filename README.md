@@ -1,4 +1,4 @@
-# The datasets for In-situ Concrete Slump Test
+# The dataset for In-situ Concrete Slump Test
 
 ## 1. Calibrate
   - The left and right images of the A3 size chessboard for the calibration process (for different baseline settings). 
