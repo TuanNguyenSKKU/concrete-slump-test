@@ -10,3 +10,6 @@
   
 ## 3. Stereo Vision
   - The left and right images used for calculating the disparity map & the depth map (for different baseline settings).
+
+Please visit our publication here:
+https://doi.org/10.1016/j.autcon.2020.103432
